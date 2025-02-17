@@ -30,7 +30,8 @@ Run the Application:
 Execute the Python script to start the expense tracker:
 
 
-python expense_tracker.py
+python code.py
+
 Usage
 Main Menu:
 When you run the program, you'll see a menu with the following options:
