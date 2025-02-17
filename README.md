@@ -18,9 +18,12 @@ Installation
 Clone the Repository:
 
 
-git clone https://github.com/your-username/expense-tracker.git
+git clone https://github.com/helithjay/Personal-Finance-Tracker-Using-Dictionaries-.git
+
 cd expense-tracker
+
 Ensure Python is Installed:
+
 This project requires Python 3.x. You can download it from python.org.
 
 Run the Application:
