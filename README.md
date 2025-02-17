@@ -18,7 +18,7 @@ This Python-based Personal Finance Tracker helps users manage their expenses by 
 3. Install dependencies (if any).
 4. Run the script using the command:
    ```sh
-   python filename.py
+   python code.py
    ```
 
 ## Usage
